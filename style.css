@@ -74,4 +74,12 @@ select {
 
 :root {
     font-size: 62.5%;
+    --dark-bg: #1f2937;
+    --btn-color: #3882f6;
+    --quote-color: #e5e7eb;
+    --heromain-text: #f9faf8;
+}
+
+header {
+    background-color: var(--dark-bg);
 }
